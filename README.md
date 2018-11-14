@@ -9,11 +9,10 @@
 
 He made a universe that dwells amongst us dearly.!!Excelsior!
 
+![Excelsior](http://legionofleia.com/wp-content/uploads/stan-lee-marvel-comics-comicbookcom-1070074-1280x0.jpeg)
+
 #### [jakhax](https://github.com/jakhax)
 His ideas have & will always been a comfort for many us. Excelsior!
-
-
-![Excelsior](http://legionofleia.com/wp-content/uploads/stan-lee-marvel-comics-comicbookcom-1070074-1280x0.jpeg)
 
 ## How can I add my tribute?
 - Fork the repository, below the most recent tribute, just above this section, you can add your tribute in this format.
