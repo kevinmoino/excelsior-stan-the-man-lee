@@ -1,6 +1,7 @@
 # excelsior-stan-the-man-lee
 - Tributes to [Stan Lee](https://en.wikipedia.org/wiki/Stan_Lee)
 - See this [section](#how-can-i-add-my-tribute) below on how to add your tribute.
+- If you have an idea of how we can make this better, maybe through some code / electronics / art  project, you can contact me via my email `jackogina60@gmail.com`. 
 
 ## Tributes
 
