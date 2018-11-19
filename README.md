@@ -15,6 +15,9 @@ He made a universe that dwells amongst us dearly.!!Excelsior!
 #### [jakhax](https://github.com/jakhax)
 His ideas have & will always been a comfort for many us. Excelsior!
 
+#### [kevinmoino] (https://github.com/kevinmoino)
+"You know, my motto is 'Excelsior.' That's an old word that means 'upward and onward to greater glory.' Keep moving forward, and if it's time to go, it's time. Nothing lasts forever." – Stan Lee
+
 ## How can I add my tribute?
 - Fork the repository, below the most recent tribute, just above this section, you can add your tribute in this format.
 - make a pull request.
